@@ -2,7 +2,7 @@
 Repositório para o script de criar usuário automaticamente editando um arquivo de texto antes.
 
 
-#Processo
+# Processo
 Editar o arquivo users
 nano users
 Dentro dele escrever os nomes de usuários que você quer, um embaixo do outro.
